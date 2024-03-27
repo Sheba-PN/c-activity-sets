@@ -5,5 +5,5 @@
  int main()
  {
     printf("My Name is Sheba\n");
-    return 1;
+    return 0;
  }

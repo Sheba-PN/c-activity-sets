@@ -1,0 +1,11 @@
+(gdb) b main
+Breakpoint 1 at 0x4014da: file .\problem04.c, line 19.
+(gdb) r
+Starting program: C:\Users\noahsark\BSC-C\c-activity-sets\set01/refadd.exe 
+[New Thread 15356.0x1c4]
+[New Thread 15356.0x1e50]
+
+Breakpoint 1, main () at .\problem04.c:19
+warning: Source file is more recent than executable.
+19          input(&a, &b);
+(gdb)
